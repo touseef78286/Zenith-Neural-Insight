@@ -1,0 +1,8 @@
+{
+  "name": "Zenith Neural-Insight",
+  "description": "A high-tech military HUD for real-time speech and confidence analytics using AI vision and vocal processing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
